@@ -28,16 +28,17 @@
 </p>
 
 #### **Systems Tooling**
+```diff
 + OS-Level Development    + Package Manager Design
 + Kernel Module Toolchain + Cross-Platform Build Systems
 + Containerized Runtimes  + Binary Distribution Pipelines
+```
 ### **Development Tools**
 <p> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/GoLand-000?style=for-the-badge&logo=goland&logoColor=white" alt="GoLand"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> </p>
-### **📊 Additional Skills & Sciences**
-<div align="center">
-Mathematics	Data Science	Multimedia
-Advanced Statistics	Data Mining	Video Editing
-Probability Theory	Predictive Analytics	Visual Effects
-Linear Algebra	Machine Learning Basics	Motion Graphics
-Discrete Mathematics	Data Visualization	Color Grading
+
+### **Additional Skills & Sciences**
+<div align="left">
+ + Mathematics & Statistics: -  Advanced Statistics	- Probability Theory	- Linear Algebra	- Discrete Mathematics	  <br>
+ + Data Science            : - 	Data Mining  - Predictive Analytics	 - Machine Learning	 - Data Visualization	 <br>
+ + Multimedia Production   : - Video Editing & Montage   - Visual Effects (VFX)   - Motion Graphics
 </div>
