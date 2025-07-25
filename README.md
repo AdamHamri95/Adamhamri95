@@ -10,8 +10,8 @@
 ---
 
 ### 🧩 Core Expertise
-**Systems Programming** | **Package Development** | **OS Internals**  
-**Performance Optimization** | **Low-Level Design** | **Infrastructure Tooling**
++ **Systems Programming**      + **Package Development** + **OS Internals**  
++ **Performance Optimization** + **Low-Level Design**    + **Infrastructure Tooling**
 
 ---
 
