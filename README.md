@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Systems Engineer | OS & Package Specialist</h1>
+<h1 align="center">Systems Engineer</h1>
 <h3 align="center">Building robust low-level solutions and system components</h3>
 
 <p align="center">
