@@ -38,7 +38,7 @@
 
 ### **Additional Skills & Sciences**
 <div align="left">
- + Mathematics & Statistics: -  Advanced Statistics	- Probability Theory	- Linear Algebra	- Discrete Mathematics	  <br>
- + Data Science            : - 	Data Mining  - Predictive Analytics	 - Machine Learning	 - Data Visualization	 <br>
- + Multimedia Production   : - Video Editing & Montage   - Visual Effects (VFX)   - Motion Graphics
+ + Mathematics & Statistics: Advanced Statistics	- Probability Theory	- Linear Algebra	- Discrete Mathematics	  <br>
+ + Data Science            : Data Mining  - Predictive Analytics	 - Machine Learning	 - Data Visualization	 <br>
+ + Multimedia Production   : Video Editing & Montage   - Visual Effects (VFX)   - Motion Graphics
 </div>
